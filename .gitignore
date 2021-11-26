@@ -1,0 +1,6 @@
+examples
+examples/**
+*.pyc
+*.csv
+*.bac
+*.ext
